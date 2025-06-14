@@ -1,30 +1,46 @@
-# Redes_neurais_-_Algoritmos_geneticos
-Repositório que contém as atividades referentes a disciplina de Redes Neurais &amp; Algoritmos Genéticos (3° semestre do bacharelado em Ciência e Tecnologia)
 # Redes Neurais e Algoritmos Genéticos
-🤖 Atividades da disciplina _Redes Neurais e Algoritmos Genéticos_, ministrada pelo Prof. Dr. Daniel R. Cassar, do 3º semestre do BSc. em Ciência e Tecnologia da Ilum Escola de Ciência, Centro Nacional de Pesquisa em Energia e Materiais.
+
+Atividades da disciplina _Redes Neurais e Algoritmos Genéticos_, ministrada pelo Prof. Dr. Daniel R. Cassar, no 3º semestre do Bacharelado em Ciência e Tecnologia da Ilum Escola de Ciência, Centro Nacional de Pesquisa em Energia e Materiais (CNPEM).
 
 ## 🗂️ Arquivos
-_Nome do arquivo - Tema w/ @Colaborador_
+_Nome do arquivo – Tema (w/ @Colaborador, se houver)_
 
-- Fera formidável 4.1 - Rede Neural para Classificação w/ [@vitordreveck-ilum](https://github.com/vitordreveck-ilum)
-- Fera formidável 4.2 - Early Stopping no PyTorch w/ [@vitordreveck-ilum](https://github.com/vitordreveck-ilum)
-- Fera formidável 4.3 - Drop Out w/ [@GabrielMartinsSousa](https://github.com/GabrielMartinsSousa)
-- Fera formidável 4.9 - Senha de tamanho variável w/ [@GabrielMartinsSousa](https://github.com/GabrielMartinsSousa)
-  - funcoes_4a (Script usado na fera 4.9)
-- Fera formidável 4.12 - Encontrando palíndromos w/ [@GabrielMartinsSousa](https://github.com/GabrielMartinsSousa)
-  - funcoes_4b (Script usado na fera 4.12)
+- `Monstrinho_3_1` – Grafo Computacional
+- `Monstrinho_3_2` – Criar uma classe
+- `Monstrinho_3_8` – Algoritmo Genético  
+  └── `funcoes_5.py` (Script auxiliar usado no Monstrinho 3.8)
+- `Monstrinho_3_10` – Problema de Otimização  
+  └── `funcoes_4.py` (Script auxiliar usado no Monstrinho 3.10)
 
-_A contribuição de cada colaborador pode ser encontrada no fim de cada caderno._
+- `Fera_Formidavel_4_1` – Rede Neural para Classificação (w/ [@JuliaGuedes](https://github.com/JuliaGuedesASantos))
+- `Fera_Formidavel_4_2` – Early Stopping no PyTorch
+- `Fera_Formidavel_4_3` – Dropout (w/ [@LuzMendes](https://github.com/LuzMendes))
+- `Fera_Formidavel_4_6` – Rede Neural Convolucional (CNN) (w/ [@gabviegas](https://github.com/gabviegas))
+- `Fera_Formidavel_4_9` – Senha de Tamanho Variável  
+  └── `funcoes_4b.py` (Script auxiliar usado na Fera 4.9)
+- `Fera_Formidavel_4_12` – Encontrando Palíndromos (w/ [@adrian24009](https://github.com/adrian24009))
 
-## 🔗 Outro trabalho da mesma disciplina
-- Otimização de hiperparâmetros de NN para classificação de tumor mamário - w/ [@PedroCoelho](https://github.com/pedrocoelhogf)
+### 🔧 Observação
+
+> A contribuição de cada colaborador corresponde, em média, a 50% do trabalho final de cada atividade em grupo.
+
+---
 
 ## 🤝 Colaboradores
-[<img src="https://avatars.githubusercontent.com/u/172425156?v=4" width=80>](https://github.com/leticiaalmnunes)
-**Letícia Almeida Nunes**
 
-[<img src="https://avatars.githubusercontent.com/u/172425313?v=4" width=80>](https://github.com/GabrielMartinsSousa)
-**Gabriel Martins Sousa**
+| Avatar | Nome |
+|--------|------|
+| [<img src="https://avatars.githubusercontent.com/u/172425156?v=4" width="80"/>](https://github.com/adrian24009) | **Adrian Lincoln Paz Silva** |
+| [<img src="https://avatars.githubusercontent.com/u/123456789?v=4" width="80"/>](https://github.com/LuzMendes) | **Ana Luz Pereira Mendes** |
+| [<img src="https://avatars.githubusercontent.com/u/987654321?v=4" width="80"/>](https://github.com/gabviegas) | **Gabriel Viégas Ribeiro** |
+| [<img src="https://avatars.githubusercontent.com/u/112233445?v=4" width="80"/>](https://github.com/JuliaGuedesASantos) | **Julia Guedes Almeida dos Santos** |
+| [<img src="https://avatars.githubusercontent.com/u/998877665?v=4" width="80"/>](https://github.com/leticiaalmnunes) | **Letícia Almeida Nunes** |
+| [<img src="https://avatars.githubusercontent.com/u/172425313?v=4" width="80"/>](https://github.com/JVictor1604/Super-Reposit-rio-Neural) | **Jose Victor da Silva Izidorio** |
 
-[<img src="https://avatars.githubusercontent.com/u/170521728?v=4" width=80>](https://github.com/vitordreveck-ilum)
-**Vitor Gabriel Dreveck**
+---
+
+## 📜 Licença
+
+Este projeto está licenciado sob a licença MIT – consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
+
+
