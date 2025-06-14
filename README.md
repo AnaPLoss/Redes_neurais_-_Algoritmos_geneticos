@@ -35,7 +35,7 @@ _Nome do arquivo – Tema (w/ @Colaborador, se houver)_
 | [<img src="https://avatars.githubusercontent.com/u/987654321?v=4" width="80"/>](https://github.com/gabviegas) | **Gabriel Viégas Ribeiro** |
 | [<img src="https://avatars.githubusercontent.com/u/112233445?v=4" width="80"/>](https://github.com/JuliaGuedesASantos) | **Julia Guedes Almeida dos Santos** |
 | [<img src="https://avatars.githubusercontent.com/u/998877665?v=4" width="80"/>](https://github.com/leticiaalmnunes) | **Letícia Almeida Nunes** |
-| [<img src="https://avatars.githubusercontent.com/u/172425313?v=4" width="80"/>](https://github.com/JVictor1604/Super-Reposit-rio-Neural) | **Jose Victor da Silva Izidorio** |
+| [<img src="https://avatars.githubusercontent.com/u/172425313?v=4" width="80"/>](https://github.com/JVictor1604) | **Jose Victor da Silva Izidorio** |
 
 ---
 
